@@ -12,7 +12,6 @@ import requests
 
 cities = {
   'London': '?MmnqT&lang=ru',
-  # 'San Francisco': '?nTqu&lang=en', - понравилась идея регулировать формат
   'Шереметьево': '?MmnqT&lang=ru', 
   'Череповец': '?MmnqT&lang=ru'
 }
